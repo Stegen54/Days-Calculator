@@ -4,7 +4,7 @@
 
 # Get the current date
 
-# Ask the user to enter their age
+# Prompt the user to enter their age
 
     
 
@@ -13,6 +13,6 @@
 
 
 # Calculate the number of days the person has lived
-#use 365.25 to represent a year  # taking into account leap years
+#use 365.25 to represent a year taking into account leap years
 
 # Print the result and Add "You have lived for approximately" to the number of days the person has spent on earth
