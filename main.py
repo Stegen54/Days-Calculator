@@ -7,7 +7,7 @@ import datetime
 today = datetime.date.today()
 
 #Print a welcome message here
-print("Hello!,Welcome,Input your Age in number to get the number of days you've spent")
+print("Hello!,Welcome,Input your Age in number to get the approximate number of days you've spent on earth")
 print()
 print()
 # Ask the user to enter their age
