@@ -18,5 +18,5 @@ You can check for errors in case the user inputs a value other than an integer. 
 
 The completed project should take in an input from the user and give the number of days the user has spent on earth based on the number the user has spent on earth
 
-# The image "expected.png" has the expected output if you've successfully completed the project.
+The image "expected.png" has the expected output if you've successfully completed the project.
 Check main.py to see the completed program.
