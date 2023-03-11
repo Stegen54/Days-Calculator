@@ -1,8 +1,11 @@
 #write a program that calculates the number of days a person has spent on earth
 
 # import the datetime module to work with dates
+import datetime
 
 # Get the current date
+
+#Print a welcome message and tell the user what they're expected to do.
 
 # Prompt the user to enter their age
 
