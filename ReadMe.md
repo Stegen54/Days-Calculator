@@ -2,7 +2,7 @@
 -This is a python program that calculates the approximate number of days one has spent on earth by asking the user to input their age. 
 # You will be writing your code in the Starter.py file
 # Task:
--Import the datetime module so you can get the present date.<br>
+-The datetime module has been imported in your starter code,use it to get the present date.<br>
 -Get the exact date of today using the datetime module you imported.<br>
 -Print a welcome message so the user would understand what the program is about.<br>
 -Get input from a user, Asking the user to enter their age.<br>
@@ -13,8 +13,12 @@
 -Print the result of the user's input multiplied by (365.25)the value used to represent a year.<br>
 -Add a message to your result to make it more understandable.<br>
 
+
 # Bonus:
 -You can check for errors in case the user inputs a value other than an integer. (i.e Prompt the user to input a number instead of the program crashing.)<br>
+- Use the date time module imported to tell the user the current date before telling them the approximate number of days thy've lived.
+
+
 # Expected Result:
 -The completed project should take in an input from the user and give the number of days the user has spent on earth based on the number the user has spent on earth.<br>
 
