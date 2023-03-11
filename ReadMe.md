@@ -5,7 +5,7 @@
 -The datetime module has been imported in your starter code,use it to get the present date.<br>
 -Get the exact date of today using the datetime module you imported.<br>
 -Read the python documentation on the date time module to see how to get the current date.<br>
-- https://docs.python.org/3/library/datetime.html
+- https://docs.python.org/3/library/datetime.html <br>
 -You'll be getting the current Year,Month and date using the date time module.<br>
 -Print a welcome message so the user would understand what the program is about.<br>
 -Get input from a user, Asking the user to enter their age.<br>
